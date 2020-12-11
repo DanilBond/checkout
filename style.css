@@ -111,3 +111,16 @@ margin-bottom: 8px;
 #Radios ul{
     padding: 0;
 }
+#PayInfo{
+    display: flex;
+    
+}
+#PayInfo p{
+    margin-top: 3px;
+    color: #6c757d;
+    font-size: .875em;
+}
+
+.PayInput{
+    width: 250px;
+}

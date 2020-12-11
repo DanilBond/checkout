@@ -75,6 +75,7 @@ main form input{
 .Form__Select__Container{
     display: flex;
     flex-wrap: nowrap;
+    margin-bottom: 30px;
 }
 .ZIP{
     display: inline;
@@ -87,4 +88,10 @@ main form input{
     width: 15px;
     height: 15px;
     border-top: 10px;
+}
+#CheckBoxes{
+    width: 620px;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    padding: 20px 0;
 }

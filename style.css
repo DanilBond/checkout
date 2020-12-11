@@ -111,7 +111,7 @@ margin-bottom: 8px;
 #Radios ul{
     padding: 0;
 }
-#PayInfo{
+#PayInfo, #PayCodes{
     display: flex;
     
 }
@@ -123,4 +123,21 @@ margin-bottom: 8px;
 
 .PayInput{
     width: 250px;
+}
+.PayCodeDiv{
+    width: 150px;
+}
+#PayCodes{
+    border-bottom: 1px solid black;
+    padding-bottom: 25px;
+    width: 620px;
+    margin-bottom: 30px;
+}
+#FinishBtn{
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    background-color: #0d6efd;
+    padding: 10px 207px;
 }

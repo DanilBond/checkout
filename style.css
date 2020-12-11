@@ -95,3 +95,19 @@ main form input{
     border-top: 1px solid black;
     padding: 20px 0;
 }
+#Radios li{
+list-style-type: none;
+margin-bottom: 8px;
+}
+#Radios input{
+    margin: 0;
+    margin-right: 5px;
+    width: 15px;
+    height: 15px;
+    }
+#Radios a{
+    text-decoration: none;
+}
+#Radios ul{
+    padding: 0;
+}

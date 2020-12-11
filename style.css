@@ -63,11 +63,14 @@ main form input{
 }
 
 .custom-select select{
-    width: 100px;
+    width: 200px;
     height: 40px;
     border: 1px solid #ced4da;
     border-radius: .25rem;
    
+}
+.custom-select{
+    margin-right: 25px;
 }
 .Form__Select__Container{
     display: flex;
@@ -77,5 +80,11 @@ main form input{
     display: inline;
 }
 .ZIPINP{
-    width: 150px;
+    width: 175px;
+    margin-left: 15px;
+}
+.CB{
+    width: 15px;
+    height: 15px;
+    border-top: 10px;
 }
